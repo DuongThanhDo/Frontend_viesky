@@ -1,0 +1,1 @@
+export { default as InventoryControl } from './InventoryControl'

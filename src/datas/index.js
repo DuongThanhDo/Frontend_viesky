@@ -1,0 +1,7 @@
+export { bills } from './dataBill'
+export { tables } from './dataSell'
+export { foods } from './dataFoods'
+export { suppliers } from './dataSupplier'
+export { staffs } from './dataStaff'
+export { deliveryBills, goods, receipts } from './dataWarehouse'
+export { calendars } from './dataCalendar'
