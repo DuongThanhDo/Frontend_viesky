@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Frontend_viesky/static/css/main.d2b1d31a.css",
+    "main.js": "/Frontend_viesky/static/js/main.b9c3e69f.js",
+    "static/js/787.6c4f2a69.chunk.js": "/Frontend_viesky/static/js/787.6c4f2a69.chunk.js",
+    "static/media/image 1.png": "/Frontend_viesky/static/media/image 1.aad231af046b3da20627.png",
+    "static/media/logo.jfif": "/Frontend_viesky/static/media/logo.c81ed73d5ba31d200c62.jfif",
+    "index.html": "/Frontend_viesky/index.html",
+    "main.d2b1d31a.css.map": "/Frontend_viesky/static/css/main.d2b1d31a.css.map",
+    "main.b9c3e69f.js.map": "/Frontend_viesky/static/js/main.b9c3e69f.js.map",
+    "787.6c4f2a69.chunk.js.map": "/Frontend_viesky/static/js/787.6c4f2a69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b1d31a.css",
+    "static/js/main.b9c3e69f.js"
+  ]
+}
